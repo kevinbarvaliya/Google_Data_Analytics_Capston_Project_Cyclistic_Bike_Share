@@ -1,7 +1,8 @@
 **Cyclistic Bike Share Analysis**
 
  
-Introduction 
+**Introduction** 
+
 Welcome to the Cyclistic bike-share analysis case study! In this case study, I will perform many real-world tasks of a junior data analyst.
 In this case study,  I used Cyclistic  company data, which is fictional company. I download the previous 12 months of Cyclistic trip data here https://divvy-tripdata.s3.amazonaws.com/index.html .
 
